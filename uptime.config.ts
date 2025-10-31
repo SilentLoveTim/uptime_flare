@@ -5,9 +5,9 @@ const pageConfig: PageConfig = {
   title: "symbol's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/SilentLoveTim', label: 'GitHub' },
-    { link: 'https://blog.tangkj.xyz/', label: 'Blog' },
-    { link: 'qinxq123@gmail.com', label: 'Email Me', highlight: true },
+    { link: 'https://blog.tangkj.xyz', label: 'Blog' },
+    { link: 'https://nav.symbol.dpdns.org', label: '导航站' },
+   // { link: 'qinxq123@gmail.com', label: 'Email Me', highlight: true },
   ],
   // [OPTIONAL] Group your monitors
   // If not specified, all monitors will be shown in a single list
