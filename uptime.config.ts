@@ -25,7 +25,7 @@ const workerConfig: WorkerConfig = {
   // passwordProtection: 'username:password',
   // Define all your monitors here
   monitors: [
-    Example TCP Monitor
+    // Example TCP Monitor
     {
       id: 'blog.tangkj.xyz',
       name: 'My Blog',
